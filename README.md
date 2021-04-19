@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Basic React application, with simple router between components on a local server with a local server (this once the application is in production) through port 9000 that must be executed manually with: node server.js
+Basic React application, with simple router between components on a local server with a local server file server.js
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,6 +31,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+**Note: (this once the application is in production) through port 9000 that must be executed manually with: node server.js**
 
 ### `npm run eject`
 
